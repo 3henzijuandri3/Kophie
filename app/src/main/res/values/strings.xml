@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Kophie</string>
+    <string name="appName">Kophie.</string>
+    <string name="appSlogan">Understand the very basic of coffee</string>
+    <string name="titleDrinks">Top Coffee Drinks</string>
+    <string name="subTitleDrinks">Here we explain our choices of most popular coffee drinks</string>
+    <string name="drinks_name">Nama Minuman</string>
+    <string name="drinks_description">Deskripsi</string>
+    <string name="aboutDrinks">About the drinks</string>
+    <string name="btnDesc">Description</string>
+    <string name="resepBtn">Ingridients</string>
+    <string name="shareBtn">Share</string>
+    <string name="subtitleDetail">a brief explanation about your selected drink</string>
+    <string name="titleAbout">The Coffee Addict</string>
+    <string name="aboutName">Henzi Juandri</string>
+    <string name="subtitleAbout">A not so Mobile Programmer</string>
+    <string name="email">henzijuandri@student.telkomuniversity.ac.id</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="homenh">Home</string>
+
+    <string-array name="data_drinks">
+        <item>Espresso</item>
+        <item>Doppio</item>
+        <item>Ristretto</item>
+        <item>Americano</item>
+        <item>Long Black</item>
+        <item>Latte</item>
+        <item>Cappucino</item>
+        <item>Moccacino</item>
+        <item>Flat White</item>
+        <item>Macchiato</item>
+        <item>Affogato</item>
+        <item>Espresso Con Panna</item>
+    </string-array>
+
+    <string-array name="data_ingredients_drinks">
+        <item>Untuk membuat espresso, berikut adalah bahan–bahan yang dibutuhkan:\n\n1. Biji kopi: Pilih biji kopi berkualitas tinggi yang cocok untuk espresso. Biji kopi ini harus digiling menjadi bubuk yang sangat halus dan padat.\n2. Air: Gunakan air segar yang telah disaring. Jumlah air yang dibutuhkan biasanya adalah sekitar 30-40 ml.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Gelas shot: Gelas kecil yang digunakan untuk menyajikan espresso.\n5. Grinder: Alat penggiling kopi yang digunakan untuk menggiling biji kopi menjadi bubuk yang sangat halus dan padat.\n6. Timbangan: Digunakan untuk mengukur jumlah bubuk kopi yang tepat.
+        </item>
+
+        <item>Pembuatan Doppio sama dengan pembuatan Espresso, berikut adalah bahan–bahan yang dibutuhkan:\n\n1. Biji kopi: Pilih biji kopi berkualitas tinggi yang cocok untuk espresso. Biji kopi ini harus digiling menjadi bubuk yang sangat halus dan padat.\n2. Air: Gunakan air segar yang telah disaring. Jumlah air yang dibutuhkan biasanya adalah sekitar 30-40 ml.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Gelas shot: Gelas kecil yang digunakan untuk menyajikan espresso.\n5. Grinder: Alat penggiling kopi yang digunakan untuk menggiling biji kopi menjadi bubuk yang sangat halus dan padat.\n6. Timbangan: Digunakan untuk mengukur jumlah bubuk kopi yang tepat.
+        </item>
+
+        <item>Pembuatan Ristretto juga sama dengan pembuatan Espresso, berikut adalah bahan–bahan yang dibutuhkan:\n\n1. Biji kopi: Pilih biji kopi berkualitas tinggi yang cocok untuk espresso. Biji kopi ini harus digiling menjadi bubuk yang sangat halus dan padat.\n2. Air: Gunakan air segar yang telah disaring. Jumlah air yang dibutuhkan lebih sedikit sekitar 20-30 ml.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Gelas shot: Gelas kecil yang digunakan untuk menyajikan espresso.\n5. Grinder: Alat penggiling kopi yang digunakan untuk menggiling biji kopi menjadi bubuk yang sangat halus dan padat.\n6. Timbangan: Digunakan untuk mengukur jumlah bubuk kopi yang tepat.
+        </item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Americano:\n\n1. Air panas: Americano adalah minuman kopi yang dibuat dengan menambahkan air panas ke dalam espresso, jadi yang dibutuhkan adalah air panas segar yang telah disaring.\n2. Biji kopi: Pilih biji kopi berkualitas tinggi yang cocok untuk espresso. Biji kopi ini harus digiling menjadi bubuk yang sangat halus dan padat.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Gelas Americano: Gelas yang digunakan untuk menyajikan Americano.\n5. Grinder: Alat penggiling kopi yang digunakan untuk menggiling biji kopi menjadi bubuk yang sangat halus dan padat.\n6. Timbangan: Digunakan untuk mengukur jumlah bubuk kopi yang tepat.
+        </item>
+
+        <item>Pembuatan Long Black juga sama dengan pembuatan Americano. Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Americano:\n\n1. Air panas: Americano adalah minuman kopi yang dibuat dengan menambahkan air panas ke dalam espresso, jadi yang dibutuhkan adalah air panas segar yang telah disaring.\n2. Biji kopi: Pilih biji kopi berkualitas tinggi yang cocok untuk espresso. Biji kopi ini harus digiling menjadi bubuk yang sangat halus dan padat.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Gelas Americano: Gelas yang digunakan untuk menyajikan Americano.\n5. Grinder: Alat penggiling kopi yang digunakan untuk menggiling biji kopi menjadi bubuk yang sangat halus dan padat.\n6. Timbangan: Digunakan untuk mengukur jumlah bubuk kopi yang tepat.</item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat latte:\n\n1. Espresso shot: Gunakan satu atau dua shot espresso sebagai dasar minuman latte.\n2. Susu: Pilih susu segar yang diinginkan. Susu yang paling umum digunakan dalam pembuatan latte adalah susu sapi, tetapi Anda juga dapat menggunakan susu kedelai, susu almond, atau susu lainnya sesuai dengan preferensi Anda.\n3. Sirup (opsional): Sirup karamel, sirup vanila, atau sirup lainnya dapat ditambahkan untuk memberikan rasa tambahan pada minuman latte.\n4. Pemanis (opsional): Gula atau pemanis lainnya dapat ditambahkan ke dalam minuman latte sesuai dengan selera.\n5. Mesin espresso: Mesin espresso digunakan untuk mengekstrak espresso dengan tekanan tinggi.\n6. Alat pengukur: Digunakan untuk mengukur jumlah susu dan espresso yang diperlukan untuk membuat minuman latte.\n7. Pitcher susu: Pitcher khusus susu digunakan untuk mengukur, mengukus, dan mencampur susu dalam minuman latte.
+        </item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat cappuccino:\n\n1. Espresso shot: Gunakan satu atau dua shot espresso sebagai dasar minuman cappuccino.\n2. Susu: Pilih susu segar yang diinginkan. Susu yang paling umum digunakan dalam pembuatan cappuccino adalah susu sapi, tetapi Anda juga dapat menggunakan susu kedelai, susu almond, atau susu lainnya sesuai dengan preferensi Anda.\n3. Kakao atau bubuk kayu manis (opsional): Bubuk kakao atau bubuk kayu manis dapat ditambahkan untuk memberikan rasa tambahan pada minuman cappuccino.\n4. Mesin espresso: Mesin espresso digunakan untuk mengekstrak espresso dengan tekanan tinggi.\n5. Alat pengukur: Digunakan untuk mengukur jumlah susu dan espresso yang diperlukan untuk membuat minuman cappuccino.\n6. Pitcher susu: Pitcher khusus susu digunakan untuk mengukur, mengukus, dan mencampur susu dalam minuman cappuccino.\n7. Tamper: Alat pengompres espresso yang digunakan untuk memadatkan bubuk kopi di dalam portafilter.\n8. Portafilter: Bagian mesin espresso yang digunakan untuk menampung bubuk kopi dan mengekstrak espresso.
+        </item>
+
+        <item>Berikut adalah bahan-bahan lengkap untuk membuat Moccacino:\n\n1. Espresso Shot\n2. Gula pasir\n3. Susu segar\n4. Bubuk kakao atau sirup cokelat\n5. Whipped cream (opsional)\n6. Serbuk kayu manis (opsional)\nCatatan: Beberapa variasi resep Moccacino juga dapat menambahkan bahan-bahan lain seperti es krim, vanila, atau krim kocok sebagai topping tambahan.\n\nUntuk membuat Moccacino, Anda dapat mulai dengan mencampurkan Espresso Shot, gula pasir, dan sedikit air panas untuk membentuk campuran pasta kopi. Kemudian, panaskan susu segar di atas kompor atau dalam microwave hingga panas dan tambahkan bubuk kakao atau sirup cokelat ke dalam susu yang sudah dipanaskan. Aduk campuran ini hingga merata.</item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Flat White:\n\n1. Espresso: Flat White dibuat dengan menggunakan 1-2 shot espresso yang diekstraksi dari biji kopi yang berkualitas tinggi.\n2. Susu segar: Pilih susu segar yang memiliki kandungan lemak tinggi seperti susu full cream atau susu skim untuk memberikan tekstur yang creamy pada minuman.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Pitcher susu: Wadah untuk mengukur dan memanaskan susu dengan ujung kerucut yang sempit untuk menghasilkan mikrofoam.\n5. Termometer susu: Digunakan untuk mengukur suhu susu yang ideal untuk pembuatan Flat White.\n6. Latte art tools: Seperti penjepit dan tusuk gigi untuk membantu membuat latte art yang indah di atas minuman.
+        </item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Flat Macchiato:\n\n1. Espresso: Flat Macchiato dibuat dengan menggunakan 1 shot espresso yang diekstraksi dari biji kopi yang berkualitas tinggi.\n2. Susu segar: Pilih susu segar yang memiliki kandungan lemak tinggi seperti susu full cream atau susu skim untuk memberikan tekstur yang creamy pada minuman.\n3. Mesin espresso: Mesin espresso digunakan untuk mengekstrak kopi dengan tekanan tinggi dan waktu ekstraksi yang singkat.\n4. Pitcher susu: Wadah untuk mengukur dan memanaskan susu dengan ujung kerucut yang sempit untuk menghasilkan mikrofoam.\n5. Sendok: Digunakan untuk menambahkan busa susu pada permukaan minuman.</item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Affogato:\n\n1. Espresso: Affogato dibuat dengan menggunakan 1 shot espresso yang diekstraksi dari biji kopi yang berkualitas tinggi.\n2. Es krim vanilla: Pilih es krim vanilla yang lembut dan berkualitas baik untuk memberikan rasa yang pas dengan espresso yang kuat.\n3. Cokelat parut (opsional): Cokelat parut digunakan sebagai topping untuk memberikan sentuhan manis pada minuman.\n4. Gelas atau mangkuk: Gelas atau mangkuk yang digunakan untuk menyajikan Affogato.</item>
+
+        <item>Berikut adalah bahan-bahan yang dibutuhkan untuk membuat Espresso Con Panna:\n\n1. Espresso: Espresso Con Panna dibuat dengan menggunakan 1 shot espresso yang diekstraksi dari biji kopi yang berkualitas tinggi.\n2. Whipped cream: Whipped cream segar atau yang sudah siap pakai bisa digunakan sebagai topping untuk menambahkan kelembutan pada espresso.\n3. Gelas espresso: Gelas kecil yang digunakan untuk menyajikan espresso.</item>
+    </string-array>
+
+    <integer-array name="data_photo_drinks">
+        <item>@drawable/espresso</item>
+        <item>@drawable/doppio</item>
+        <item>@drawable/ristretto</item>
+        <item>@drawable/americano</item>
+        <item>@drawable/long_black</item>
+        <item>@drawable/latte</item>
+        <item>@drawable/cappucino</item>
+        <item>@drawable/mochacinno</item>
+        <item>@drawable/flat_white</item>
+        <item>@drawable/macchaito</item>
+        <item>@drawable/affogato</item>
+        <item>@drawable/con_panna</item>
+    </integer-array>
+
+    <string-array name="data_description_drinks">
+        <item>Espresso adalah minuman kopi yang dibuat dengan mengekstrak air panas yang ditekan melalui bubuk kopi yang sangat halus dan padat. Metode ekstraksi yang digunakan dalam pembuatan espresso melibatkan tekanan yang tinggi dan waktu ekstraksi yang singkat, sehingga minuman kopi ini memiliki ciri khas rasa dan aroma yang kaya, pekat, dan konsentrat.\n\nUntuk membuat espresso, biji kopi yang sudah disangrai harus dihaluskan menjadi bubuk yang sangat halus dan padat. Bubuk kopi tersebut kemudian ditempatkan ke dalam alat khusus yang disebut mesin espresso, di mana air panas di tekan melalui bubuk kopi dengan tekanan tinggi sehingga menghasilkan ekstrak kopi yang kental dan pekat.</item>
+
+        <item>Doppio adalah istilah yang digunakan di dunia kopi untuk menyebut sebuah shot espresso yang menggunakan dua kali lipat kopi dan air dibandingkan dengan satu shot espresso standar. Dalam bahasa Italia, "doppio" berarti "dua kali lipat". Sebuah doppio dibuat dengan menggunakan dua sendok takaran biji kopi yang digiling halus dan dua kali lipat air panas dibandingkan dengan satu shot espresso standar.\n\nKarena menggunakan jumlah kopi dan air yang lebih banyak, doppio memiliki rasa yang lebih kuat, lebih pekat dan lebih konsentrasi dari espresso tunggal. Doppio sering dijadikan dasar untuk minuman kopi seperti latte, cappuccino, dan americano.</item>
+
+        <item>Ristretto adalah minuman kopi yang biasanya terdiri dari satu shot espresso yang dibuat dengan cara memasukkan jumlah air yang lebih sedikit daripada espresso standar. Proses ini menghasilkan minuman kopi yang lebih kuat dan pekat, dengan rasa yang lebih konsentrat daripada espresso standar.\n\nRistretto biasanya disajikan dalam cangkir kecil, dengan volume sekitar setengah dari cangkir espresso standar. Waktu ekstraksi ristretto juga lebih pendek dari espresso biasa, sehingga konsentrasi kopi yang dihasilkan lebih tinggi.</item>
+
+        <item>Americano adalah minuman kopi yang terbuat dari satu shot espresso dan air panas yang dituangkan ke dalam cangkir. Namun, Americano biasanya lebih lemah dan memiliki rasa yang lebih ringan daripada espresso.\n\nMinuman kopi ini diberi nama Americano karena konon berasal dari kebiasaan orang Amerika yang memesan espresso di Italia lalu menambahkan air panas untuk melemahkan rasa kopi yang kuat.</item>
+
+        <item>Long black adalah minuman kopi yang populer di Australia dan Selandia Baru, terdiri dari dua shot espresso yang dituangkan ke dalam cangkir berisi air panas. Untuk membuat long black, barista mengambil dua shot espresso dan menambahkannya ke dalam cangkir air panas, sehingga menciptakan minuman kopi yang pekat dan beraroma dengan crema (lapisan krim tipis yang terbentuk di atas espresso).\n\nSelain itu, cara penyajiannya membuat minuman ini terasa lebih halus dibandingkan dengan americano, yang dibuat dengan menuangkan espresso ke dalam air panas.</item>
+
+        <item>Latte adalah minuman kopi yang populer yang terdiri dari espresso dan susu steamed (dipanaskan dengan uap) yang kemudian dihias dengan busa susu. Latte biasanya disajikan dalam cangkir besar, dengan rasio espresso dan susu sekitar 1:3 atau 1:4, meskipun proporsi ini dapat bervariasi tergantung pada selera individu.\n\nBeberapa barista juga menambahkan sirup rasa untuk memberikan variasi pada rasa latte. Latte sering disajikan dengan desain yang indah di atas busa susu, seperti hati, daun, atau pola abstrak lainnya, yang dikenal sebagai latte art.</item>
+
+        <item>Cappuccino adalah minuman kopi yang terdiri dari espresso, susu steamed (dikukus), dan busa susu yang ditempatkan di atasnya. Proporsi bahan dalam cappuccino biasanya adalah 1/3 espresso, 1/3 susu steamed, dan 1/3 busa susu. Cappuccino dapat disajikan dalam berbagai ukuran cangkir, tetapi umumnya memiliki volume sekitar 150-180 ml.\n\nCappuccino biasanya disajikan dalam cangkir keramik yang lebar dengan tepi yang melengkung dan memiliki permukaan yang halus dan cokelat yang digunakan untuk menghias busa susu. Cappuccino merupakan minuman kopi yang populer di seluruh dunia dan merupakan salah satu minuman kopi yang paling umum ditemukan di kedai kopi.</item>
+
+        <item>Moccacino adalah minuman kopi yang populer di seluruh dunia, terutama di kedai kopi dan restoran. Minuman ini biasanya terdiri dari tiga bahan utama, yaitu espresso, susu, dan cokelat. Espresso adalah kopi yang diseduh dengan tekanan tinggi sehingga menghasilkan rasa kopi yang pekat dan kaya.\n\nSusu digunakan untuk memberikan tekstur dan rasa manis pada minuman, sementara cokelat ditambahkan untuk memberikan sentuhan manis dan rasa cokelat yang khas.</item>
+
+        <item>Flat white adalah minuman kopi yang terdiri dari satu atau dua shot espresso dan susu steamed (dipanaskan dengan uap). Flat white berasal dari Australia atau Selandia Baru dan kemudian menyebar ke seluruh dunia. Perbedaan utama antara flat white dan minuman kopi lainnya seperti latte atau cappuccino adalah proporsi antara kopi dan susu.\n\nFlat white memiliki proporsi kopi yang lebih banyak dan sedikit susu dibandingkan dengan latte atau cappuccino. Dalam flat white, rasio kopi dan susu biasanya adalah 1:2 atau 1:3, sedangkan dalam latte rasio kopi dan susu adalah 1:3 atau 1:4, dan dalam cappuccino rasio kopi dan susu adalah 1:1 atau 1:2.</item>
+
+        <item>Macchiato adalah minuman kopi yang terdiri dari espresso dan sedikit susu steamed atau busa susu yang ditempatkan di atas espresso. Kata "macchiato" berasal dari bahasa Italia yang berarti "ditandai" atau "dicoret". Dalam konteks minuman kopi, macchiato mengacu pada "espresso yang dicoret dengan sedikit susu" atau "espresso yang diberi tanda dengan susu".Pembuatan macchiato dimulai dengan pembuatan espresso menggunakan mesin espresso.\n\nKemudian, sedikit susu steamed atau busa susu ditempatkan di atas espresso secara perlahan-lahan. Jumlah susu yang ditambahkan pada macchiato jauh lebih sedikit daripada latte atau cappuccino. Pada umumnya, rasio espresso dan susu pada macchiato adalah 4:1 atau 5:1.</item>
+
+        <item>Affogato adalah minuman pencuci mulut yang terdiri dari satu shot espresso yang dituangkan di atas bola es krim vanila atau es krim gelato. Kata "affogato" berasal dari bahasa Italia yang berarti "tenggelam" atau "dilemparkan ke dalam air". Dalam konteks minuman pencuci mulut, affogato mengacu pada es krim vanila yang "ditenggelamkan" atau "dilemparkan ke dalam" shot espresso panas.\n\nPembuatan affogato dimulai dengan pembuatan espresso menggunakan mesin espresso. Kemudian, bola es krim vanila atau gelato ditempatkan di dalam cangkir atau mangkuk yang sesuai. Shot espresso panas dituangkan di atas bola es krim vanila atau gelato, sehingga menghasilkan campuran rasa manis dan kopi yang kaya.</item>
+
+        <item>Espresso con panna adalah minuman kopi yang terdiri dari satu shot espresso yang dituangkan di atas whipped cream (krim kocok). Kata "con panna" dalam bahasa Italia berarti "dengan krim". Sehingga Espresso con panna adalah espresso yang disajikan dengan krim kocok di atasnya.\n\nEspresso con panna biasanya disajikan dalam cangkir kecil atau gelas shot, dan krim kocok yang digunakan dapat diberi tambahan gula atau rasa seperti vanila atau coklat. Minuman ini biasanya disajikan sebagai minuman penyegar atau penutup setelah makan.</item>
+    </string-array>
+
+</resources>
