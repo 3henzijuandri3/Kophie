@@ -9,9 +9,9 @@ Kophie is an application that was made for the final submission from ["Belajar M
 # App Interface
 * Splash Screen
 <img src="https://github.com/3henzijuandri3/Kophie/assets/89207690/f7305efb-4c3b-41ce-ad92-47a6fcf4831e.jpg" width="300">
-<br>
+
 * Main Screen
 <img src="https://github.com/3henzijuandri3/Kophie/assets/89207690/c08ba65d-e647-4c66-a2ef-6f059bbd8d5b.jpg" width="300">
-<br>
+
 * Detail Screen
 <img src="https://github.com/3henzijuandri3/Kophie/assets/89207690/370102c0-b0ac-4f16-a6ba-00cfb1f0d23b.jpg" width="300">
